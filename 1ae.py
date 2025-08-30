@@ -73,7 +73,3 @@ while 1:
             print()
             
             continue
-        
-#invaliiiiid
-
-
