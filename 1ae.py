@@ -74,3 +74,6 @@ while 1:
             
             continue
         
+#invaliiiiid
+
+
